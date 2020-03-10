@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Hello Activity</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="cityName">Moscow</string>
+    <string name="tabItemToday">Today</string>
+    <string name="tabItemTom">Tomorrow</string>
+    <string name="tabItemAfterTom">After Tomorrow</string>
+    <string name="temp">6 C</string>
+    <string name="windSpeedAndDirection">Wind: NW, 2 m/s</string>
+    <string name="windChillFactor">feels like: 3 C</string>
 </resources>
